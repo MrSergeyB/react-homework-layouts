@@ -1,0 +1,10 @@
+.icon-switch {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.md-36 {
+  font-size: 36px;
+  color: #696969;
+}
